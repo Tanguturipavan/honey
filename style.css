@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(204, 243, 243);
+}
+#pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(185, 165, 165);
+    height: 45vh;
+    width: 35vh;
+}
+h1{
+    text-align: center;
+    color: rgb(241, 11, 191);
+}
+div{
+    background-color: rgb(203, 242, 242);
+}
+button{
+    background-color: brown;
+    
+    
+}
+a{
+    color: whitesmoke;
+    
+}
+#abt{
+    background-image: url(https://www.instagram.com/p/CK5OGjSpcj_/?hl=en);
+
+}
+#aud{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 45%;
+    width: 35%;
+}
+#butt{
+    position: fixed;
+}
+#hid{
+    
+}
+ 
